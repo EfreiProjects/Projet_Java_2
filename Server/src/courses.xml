@@ -1,0 +1,58 @@
+﻿<?xml version="1.0"?>
+<courses>
+	<course>
+		<name>Algèbre Linéaire</name>
+		<tenured>John Doe</tenured>
+		<AssistantName>Gandalf Legris</AssistantName>
+		<AssistantName>David Wu</AssistantName>
+	</course>
+	<course>
+		<name>Programmation en C</name>
+		<tenured>Jean Jaques</tenured>
+		<AssistantName>Bilbo Baggins</AssistantName>
+		<AssistantName>Juste Leblanc</AssistantName>
+	</course>
+	<course>
+		<name>Physique de Newton</name>
+		<tenured>Tyrion Lannister</tenured>
+		<AssistantName>Mignon Lapinou</AssistantName>
+		<AssistantName>Limou Lescroc</AssistantName>
+	</course>
+	<course>
+		<name>Macro-économie</name>
+		<tenured>Bobus Lennonus</tenured>
+		<AssistantName>John Snow</AssistantName>
+		<AssistantName>Gandalf Legris</AssistantName>
+	</course>
+	<course>
+		<name>Communication</name>
+		<tenured>Bob Morane</tenured>
+		<AssistantName>Bilbo Baggins</AssistantName>
+		<AssistantName>Gandalf Legris</AssistantName>
+	</course>
+	<course>
+		<name>Statistiques et probabilités</name>
+		<tenured>Luke Skywalker</tenured>
+		<AssistantName>Limou Lescroc</AssistantName>
+		<AssistantName>David Wu</AssistantName>
+	</course>
+		<course>
+		<name>Modélisation 3D</name>
+		<tenured>Luke Skywalker</tenured>
+		<AssistantName>Limou Lescroc</AssistantName>
+		<AssistantName>Bilbo Baggins</AssistantName>
+	</course>
+		<course>
+		<name>Programmation en C#</name>
+		<tenured>Tyrion Lannister</tenured>
+		<AssistantName>Limou Lescroc</AssistantName>
+		<AssistantName>John Snow</AssistantName>
+	</course>
+		<course>
+		<name>Maîtrise de l'UDK</name>
+		<tenured>Bobus Lennonus</tenured>
+		<AssistantName>Limou Lescroc</AssistantName>
+		<AssistantName>Juste Leblanc</AssistantName>
+	</course>
+	
+</courses>

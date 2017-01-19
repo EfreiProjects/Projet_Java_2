@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<admins>
+	<admin>
+		<firstname>Amelie</firstname>
+		<name>Poulain</name>
+		<password>lolcat</password>
+		<civilstate>M</civilstate>
+		<birthDay>10</birthDay>
+		<birthMonth>05</birthMonth>
+		<birthYear>1993</birthYear></admin>
+	<admin>
+		<firstname>Hubert</firstname>
+		<name>Bonisseur de la batte</name>
+		<password>larmina</password>
+		<civilstate>M</civilstate>
+		<birthDay>20</birthDay>
+		<birthMonth>03</birthMonth>
+		<birthYear>1996</birthYear>
+	</admin>
+</admins>

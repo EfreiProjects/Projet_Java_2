@@ -1,0 +1,103 @@
+﻿<?xml version="1.0"?>
+<students>
+	<student>
+		<firstname>Bilbo</firstname>
+		<name>Baggins</name>
+		<password>roflfderp</password>
+		<civilstate>M</civilstate>
+		<birthDay>10</birthDay>
+		<birthMonth>05</birthMonth>
+		<birthYear>1993</birthYear>
+		<year>1</year>
+		<referent>Jean Jaques</referent>
+		<specialisation>Mathématiques et informatique</specialisation>
+		<mendatoryName>Macro-économie</mendatoryName>
+		<mendatoryName>Communication</mendatoryName>
+	</student>
+	<student>
+		<firstname>Gandalf</firstname>
+		<name>Legris</name>
+		<password>youshallnotpass</password>
+		<civilstate>M</civilstate>
+		<birthDay>12</birthDay>
+		<birthMonth>02</birthMonth>
+		<birthYear>1945</birthYear>
+		<year>3</year>
+		<referent>John Doe</referent>
+		<specialisation>Mathématiques financières</specialisation>
+		<mendatoryName>Statistiques et probabilités</mendatoryName>
+		<mendatoryName>Physique de Newton</mendatoryName>
+	</student>
+	<student>
+		<firstname>David</firstname>
+		<name>Wu</name>
+		<password>pingpong</password>
+		<civilstate>M</civilstate>
+		<birthDay>12</birthDay>
+		<birthMonth>02</birthMonth>
+		<birthYear>1945</birthYear>
+		<year>3</year>
+		<referent>John Doe</referent>
+		<specialisation>Imagerie et Réalité Virtuelle</specialisation>
+		<mendatoryName>Programmation en C#</mendatoryName>
+		<mendatoryName>Programmation en C</mendatoryName>
+	</student>
+	<student>
+		<firstname>Juste</firstname>
+		<name>Leblanc</name>
+		<password>pignon</password>
+		<civilstate>M</civilstate>
+		<birthDay>18</birthDay>
+		<birthMonth>09</birthMonth>
+		<birthYear>1962</birthYear>
+		<year>5</year>
+		<referent>Tyrion Lannister</referent>
+		<specialisation>Imagerie et Réalité Virtuelle</specialisation>
+		<mendatoryName>Modélisation 3D</mendatoryName>
+		<mendatoryName>Maîtrise de l'UDK</mendatoryName>
+	</student>
+
+	<student>
+		<firstname>Mignon</firstname>
+		<name>Lapinou</name>
+		<password>coucou</password>
+		<civilstate>M</civilstate>
+		<birthDay>18</birthDay>
+		<birthMonth>02</birthMonth>
+		<birthYear>1962</birthYear>
+		<year>5</year>
+		<referent>Bob Morane</referent>
+		<specialisation>Mathématiques et informatique</specialisation>
+		<mendatoryName>Communication</mendatoryName>
+		<mendatoryName>Maîtrise de l'UDK</mendatoryName>
+	</student>
+	<student>
+		<firstname>John</firstname>
+		<name>Snow</name>
+		<password>stark</password>
+		<civilstate>M</civilstate>
+		<birthDay>17</birthDay>
+		<birthMonth>12</birthMonth>
+		<birthYear>1918</birthYear>
+		<year>5</year>
+		<referent>Tyrion Lannister</referent>
+		<specialisation>Imagerie et Réalité Virtuelle</specialisation>
+		<mendatoryName>Modélisation 3D</mendatoryName>
+		<mendatoryName>Algèbre Linéaire</mendatoryName>
+	</student>
+
+	<student>
+		<firstname>Limou</firstname>
+		<name>Lescroc</name>
+		<password>binomeEnMousse</password>
+		<civilstate>M</civilstate>
+		<birthDay>17</birthDay>
+		<birthMonth>12</birthMonth>
+		<birthYear>1993</birthYear>
+		<year>5</year>
+		<referent>Tyrion Lannister</referent>
+		<specialisation>Mathématiques financières</specialisation>
+		<mendatoryName>Communication</mendatoryName>
+		<mendatoryName>Statistiques et Probabilités</mendatoryName>
+	</student>
+</students>

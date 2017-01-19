@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<specialisations>
+	<specialisation>
+		<name>Mathématiques et informatique</name>
+		<courseName>Algèbre Linéaire</courseName>
+		<courseName>Programmation en C</courseName>
+		<courseName>Physique de Newton</courseName>
+	</specialisation>
+	<specialisation>
+		<name>Mathématiques financières</name>
+		<courseName>Algèbre Linéaire</courseName>
+		<courseName>Macro-économie</courseName>
+		<courseName>Statistiques et probabilités</courseName>
+	</specialisation>
+	<specialisation>
+		<name>Imagerie et Réalité Virtuelle</name>
+		<courseName>Modélisation 3D</courseName>
+		<courseName>Programmation en C#</courseName>
+		<courseName>Maîtrise de l'UDK</courseName>
+	</specialisation>
+</specialisations>
